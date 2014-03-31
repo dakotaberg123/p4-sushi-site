@@ -1,7 +1,8 @@
 
 body {
 	margin-top: 20px;
-	background: url('../img/debut_light.png') repeat;
+  	background: red;
+	/* background: url('../img/debut_light.png') repeat;  */
 }
 
 h2 {
